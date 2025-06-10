@@ -1,0 +1,6 @@
+# Ignoruj tymczasowe pliki
+*.log
+*.tmp
+users.txt  # Ignoruj, jeśli generowany dynamicznie
+__pycache__/
+*.pyc
